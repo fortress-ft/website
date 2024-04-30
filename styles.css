@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700&display=swap);
+
+* {
+    font-family: 'Source Sans 3', serif;
+}
+
+body {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+}
+
+.post-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #0f0f0f;
+    padding: 20px;
+    text-align: left;
+}
+
+.post-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.post-content {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.post-author {
+    font-size: 14px;
+    color: #555;
+}
+
+.post-date {
+    font-size: 14px;
+    color: #555;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+a {
+    color: #e5a551;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #ffae00;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 75px;
+}
+
+h1 {
+    font-size: xx-large;
+    text-decoration: underline;
+    text-decoration-color: #51ADE5;
+}
+
+#social-icon {
+    height: 16px;
+    width: 16px;
+}
+
+#team {
+    font-size: x-large;
+    font-weight: 400;
+    text-decoration: none;
+}
